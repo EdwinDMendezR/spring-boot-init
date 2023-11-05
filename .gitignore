@@ -30,3 +30,7 @@ out/
 
 ### VS Code ###
 .vscode/
+*.lock
+.gradle/6.8/fileHashes/fileHashes.lock
+*.lock
+*.lock

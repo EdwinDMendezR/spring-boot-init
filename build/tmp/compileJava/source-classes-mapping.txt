@@ -1,4 +1,0 @@
-org/example/infrastructure/HelloRestController.java
- org.example.infrastructure.HelloRestController
-org/example/Main.java
- org.example.Main
